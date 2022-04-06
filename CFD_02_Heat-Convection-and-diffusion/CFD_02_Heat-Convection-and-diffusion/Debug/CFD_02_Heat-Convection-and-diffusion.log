@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ENCHOU\source\repos\CFD_02_Heat-Convection-and-diffusion\CFD_02_Heat-Convection-and-diffusion\CFD_02_Heat-Convection-and-diffusion\Source.cpp(26,13): warning C4101: 'istat': 未參考的區域變數
+  header.cpp
+  正在產生程式碼...
+  CFD_02_Heat-Convection-and-diffusion.vcxproj -> C:\Users\ENCHOU\source\repos\CFD_02_Heat-Convection-and-diffusion\CFD_02_Heat-Convection-and-diffusion\Debug\CFD_02_Heat-Convection-and-diffusion.exe
