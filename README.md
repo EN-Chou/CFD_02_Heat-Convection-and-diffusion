@@ -1,5 +1,6 @@
-# CFD_02_Heat-Convection-and-diffusion  w/ MPI
+# Heat_Convection_and_diffusion-MPI
 
++ CFD_02_Heat-Convection-and-diffusion  w/ MPI
 1. Installation and Configuration of MPI in Visual Studio:  
   a) Download: https://www.microsoft.com/en-us/download/details.aspx?id=100593 (perhaps)  
   b) cd ./CFD_02_Heat-Convection-and-diffusion-> Double clicking to open up "_02_Heat-Convection-and-diffusion.sln"  
